@@ -4,7 +4,23 @@
 data  - service - controller 
 
 
-![44](https://github.com/dino-21/Spring_Mybatis5/assets/80396471/8c6cb505-5ad5-44c3-8745-5928196cb06d)
+
+
+![44-2](https://github.com/dino-21/Spring_Mybatis5/assets/80396471/b63baf3a-9a7f-4210-814c-f95d4f5b5f06)
+
+
+
+![1-1](https://github.com/dino-21/Spring_Mybatis5/assets/80396471/ad0947d3-9802-487c-98b6-5ecf5ca06939)
+
+
+
+![1-3](https://github.com/dino-21/Spring_Mybatis5/assets/80396471/d92242cc-429f-406e-9421-be8759fb1f83)
+
+
+
+![1-5](https://github.com/dino-21/Spring_Mybatis5/assets/80396471/8df9d387-7f48-4ac6-aab9-f29db6969825)
+
+
 
 
 data 계층에서 테스트하고 service 계층에서 작업하기
